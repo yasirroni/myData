@@ -1,9 +1,9 @@
 # Washington DC Solar Radiation from NREL
 
 ## Data
-Data: WASHINGTON DC REAGAN AP, VA. 724050.
+Data: WASHINGTON DC DULLES INT'L AR [STERLING - ISIS], VA.
 Source: https://rredc.nrel.gov/solar/old_data/nsrdb/1991-2010/hourly/siteonthefly.cgi?id=724030
-Reason: The best meteorological site that has Solar measurements and also the nearest to White House.
+Reason: The best meteorological site (lowest uncertainty) that has Solar measurements and also the nearest to White House.
 Column: P, 16. METSTAT Glo (Wh/m^2)
 Unit: Wh/m^2
 Row (hours in one year): 8760
